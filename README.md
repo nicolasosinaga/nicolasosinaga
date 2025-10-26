@@ -2,7 +2,8 @@
 
 🎯 **Ingeniero Industrial y de Sistemas especializado en Análisis de Datos y Business Intelligence (BI).**  
 
-Transformo datos sin procesar en **información estratégica para la toma de decisiones**, diseñando y ejecutando soluciones analíticas de punta a punta: desde la **extracción y automatización de datos en SQL**, hasta la creación de **tableros dinámicos e interactivos en Power BI**.
+Transformo datos sin procesar en **información estratégica para la toma de decisiones**, diseñando y ejecutando soluciones analíticas de punta a punta:  
+desde la **extracción de datos en SQL**, hasta la creación de **tableros dinámicos e interactivos en Power BI**.
 
 ---
 
@@ -14,19 +15,30 @@ Transformo datos sin procesar en **información estratégica para la toma de dec
 
 ---
 
+## 🧠 Habilidades y Competencias
+
+| Área | Tecnologías / Enfoque |
+|------|------------------------|
+| 📊 **Business Intelligence** | Power BI · DAX · Power Query · Modelado de Datos · Storytelling con Datos |
+| 🗃️ **Bases de Datos** | SQL Server · Consultas Avanzadas · Optimización de ETL |
+| 💼 **Gestión y Comunicación** | Comunicación con Stakeholders · Gestión de Proyectos |
+
+---
+
 ## 🎓 Formación y Certificaciones
 
-- 🎓 **Ingeniería Industrial y de Sistemas** – Universidad Privada de Santa Cruz de la Sierra
-- 🟡 **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)
-- 🧠 **Diplomado en Gestión Profesional de Proyectos** - Tecnológico de Monterrey
-- 🧾 **Mastering Data Visualization: Theory and Foundations – Udemy**
+- 🎓 **Ingeniería Industrial y de Sistemas** – Universidad Privada de Santa Cruz de la Sierra  
+- 🟡 **Microsoft Certified:** Power BI Data Analyst Associate *(PL-300)*  
+- 🧠 **Diplomado en Gestión Profesional de Proyectos** – Tecnológico de Monterrey  
+- 🧾 **Mastering Data Visualization: Theory and Foundations** – Udemy  
 
 ---
 
 ## 💬 Sobre mí
 
 Me apasiona **convertir conjuntos de datos complejos en historias claras y accionables**, que impulsen la eficiencia y el crecimiento de los ingresos.  
-Creo en el poder del **storytelling con datos** para conectar la analítica con la estrategia empresarial.
+Creo en el poder del **storytelling con datos** para conectar la analítica con la estrategia empresarial.  
+
 ---
 
 ## 🌐 Conecta conmigo
